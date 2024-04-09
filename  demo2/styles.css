@@ -1,0 +1,197 @@
+ /* Existing styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(252, 252, 252);
+    text-align: center;
+  }
+  
+  h2 {
+    color: #000001;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .avatar-upload {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .avatar-upload input {
+    display: none;
+  }
+  
+  .avatar-preview {
+    text-align: left; /* Align the content to the left */
+  margin-bottom: 20px;
+  margin-right: 20px;
+  }
+  
+  .avatar-preview img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;  /* Ensure the image is circular */
+  }
+  
+  
+  .container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #ffffffa9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(255, 252, 252);
+    text-align: center; /* Added to center-align content */
+  }
+  
+  h2 {
+    color: #02060b;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+    text-align: left;
+    align-items: center; /* Added to left-align form labels */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  input[type="file"],
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #e106b9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f3f4f6;
+  }
+  /* Added styles to position elements */
+.avatar-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .avatar-preview {
+    margin-right: 20px; /* Provide spacing between avatar and button */
+  }
+  
+  .file-section {
+    position: relative;
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+  
+  .choose-file-btn {
+    background-color: #5178c3;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .choose-file-btn:hover {
+    background-color: #0056b3;
+  }
+  .location-heading {
+   text-align: center;
+   margin-bottom: 20px;
+ }
+
+ .location-heading strong {
+   font-weight: bold;
+ }
+
+ .underline {
+   width: 100%;
+   border-bottom: 1px solid #0e0e0e;
+   margin-bottom: 15px;
+ }
+
+ .form-group {
+   margin-bottom: 25px;
+   text-align: left;
+ }
+
+ input[type="text"] {
+   width: 100%;
+   padding: 10px;
+   border: none;
+   border-bottom: 1px solid #ccc;
+   box-sizing: border-box;
+ }
+
+ button {
+   background-color: #f30df3;
+   color: #fff;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+ }
+
+ button:hover {
+   background-color: #b300b3;
+ }
+ .form-group {
+    text-align: left;
+  }
+
+  button {
+    display: block;
+    width: 200px;
+    margin: 20px 0 0; /* Adjust the margins according to your design */
+    background-color: #ea00ff;
+    color: #fff;
+    padding: 15px 30px; /* Increase the padding to make the button bigger */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #9b00b3;
+  }
+  
+  /* Additional styling can be added to customize the appearance */
+  
+  
